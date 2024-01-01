@@ -32,9 +32,9 @@ const Home = () => {
     <div id="home">
       <section>
         <div>
-          <motion.h1 {...animations.h1}>
-            Hi, I Am <br /> Aryan Patel
-          </motion.h1>
+        <motion.h1 initial={animations.h1.initial} animate={animations.h1.whileInView}>
+        Hi, I Am <br /> Aryan Patel
+        </motion.h1>
 
           <Typewriter
             options={{

@@ -50,7 +50,7 @@ const Footer = () => {
     </div>
 
     <div class="text-center p-6 bg-[#131518]">
-        <span>© 2022 Copyright : </span>
+        <span>© 2023 Copyright : </span>
         <button class="text-white font-semibold" > Aryan Patel</button>
     </div>
 </footer>
