@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/webproj/static/css/main.97e32824.css",
+    "main.js": "/webproj/static/js/main.17c67054.js",
+    "static/media/navsystem.png": "/webproj/static/media/navsystem.0078ff130a515d82ffad.png",
+    "static/media/cricket.png": "/webproj/static/media/cricket.86a1d41d8b04aeb3cae4.png",
+    "static/media/hack.png": "/webproj/static/media/hack.f85e829ab5c4f087c26e.png",
+    "static/media/inventory.png": "/webproj/static/media/inventory.2f9c5842d06013885057.png",
+    "static/media/cplusplus.png": "/webproj/static/media/cplusplus.666af1b3598c92045b63.png",
+    "static/media/2.png": "/webproj/static/media/2.a248d3338089ee1fb7f6.png",
+    "static/media/divide.png": "/webproj/static/media/divide.bbcb25c6040569f85149.png",
+    "static/media/logo.png": "/webproj/static/media/logo.70d0d64838adf6446e0c.png",
+    "static/media/engg160.png": "/webproj/static/media/engg160.766abe3858e6ca0239eb.png",
+    "static/media/excel.png": "/webproj/static/media/excel.833dac9ab1904a20f262.png",
+    "static/media/Matlab.png": "/webproj/static/media/Matlab.2b608e94f8e1c2c9cd8e.png",
+    "static/media/java.png": "/webproj/static/media/java.6c1a3b5f7e2d535bff5b.png",
+    "static/media/github.png": "/webproj/static/media/github.d197d6491f81a30a1125.png",
+    "static/media/html.png": "/webproj/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/sql.png": "/webproj/static/media/sql.3cbcbd4a45dae9d1dd6c.png",
+    "static/media/mongo.png": "/webproj/static/media/mongo.7d7ef799b6080b384730.png",
+    "index.html": "/webproj/index.html",
+    "main.97e32824.css.map": "/webproj/static/css/main.97e32824.css.map",
+    "main.17c67054.js.map": "/webproj/static/js/main.17c67054.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97e32824.css",
+    "static/js/main.17c67054.js"
+  ]
+}
