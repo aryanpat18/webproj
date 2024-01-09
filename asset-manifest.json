@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/webproj/static/css/main.97e32824.css",
-    "main.js": "/webproj/static/js/main.17c67054.js",
+    "main.css": "/webproj/static/css/main.876a7af0.css",
+    "main.js": "/webproj/static/js/main.633a5d64.js",
     "static/media/navsystem.png": "/webproj/static/media/navsystem.0078ff130a515d82ffad.png",
     "static/media/cricket.png": "/webproj/static/media/cricket.86a1d41d8b04aeb3cae4.png",
     "static/media/hack.png": "/webproj/static/media/hack.f85e829ab5c4f087c26e.png",
@@ -11,19 +11,29 @@
     "static/media/divide.png": "/webproj/static/media/divide.bbcb25c6040569f85149.png",
     "static/media/logo.png": "/webproj/static/media/logo.70d0d64838adf6446e0c.png",
     "static/media/engg160.png": "/webproj/static/media/engg160.766abe3858e6ca0239eb.png",
+    "static/media/scikit-learn.png": "/webproj/static/media/scikit-learn.02f9b6abfd8095b31187.png",
+    "static/media/jupyter-removebg-preview.png": "/webproj/static/media/jupyter-removebg-preview.b040a5b4903eb54bb159.png",
     "static/media/excel.png": "/webproj/static/media/excel.833dac9ab1904a20f262.png",
     "static/media/Matlab.png": "/webproj/static/media/Matlab.2b608e94f8e1c2c9cd8e.png",
     "static/media/java.png": "/webproj/static/media/java.6c1a3b5f7e2d535bff5b.png",
+    "static/media/sea.png": "/webproj/static/media/sea.84833d63557736dedf46.png",
+    "static/media/Tableau.png": "/webproj/static/media/Tableau.b792583bb792aa35e874.png",
     "static/media/github.png": "/webproj/static/media/github.d197d6491f81a30a1125.png",
+    "static/media/plotly.png": "/webproj/static/media/plotly.e178dcab1c2217935cad.png",
     "static/media/html.png": "/webproj/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/webproj/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/webproj/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/stream.png": "/webproj/static/media/stream.22a242c00f6cb0922863.png",
     "static/media/sql.png": "/webproj/static/media/sql.3cbcbd4a45dae9d1dd6c.png",
     "static/media/mongo.png": "/webproj/static/media/mongo.7d7ef799b6080b384730.png",
+    "static/media/Power-BI-Logo.png": "/webproj/static/media/Power-BI-Logo.1a36f6101e307eba03e5.png",
+    "static/media/javascript.png": "/webproj/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/webproj/index.html",
-    "main.97e32824.css.map": "/webproj/static/css/main.97e32824.css.map",
-    "main.17c67054.js.map": "/webproj/static/js/main.17c67054.js.map"
+    "main.876a7af0.css.map": "/webproj/static/css/main.876a7af0.css.map",
+    "main.633a5d64.js.map": "/webproj/static/js/main.633a5d64.js.map"
   },
   "entrypoints": [
-    "static/css/main.97e32824.css",
-    "static/js/main.17c67054.js"
+    "static/css/main.876a7af0.css",
+    "static/js/main.633a5d64.js"
   ]
 }
