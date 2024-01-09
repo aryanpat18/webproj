@@ -76,7 +76,7 @@ const Projects = () => {
            group-hover:opacity-100">{detail}</h3>
               </div>
             </div> */}
-          <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-20 px-4 sm:px-0 pb-10">
+          <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-20 px-4 sm:px-0">
   {projects.map(({ id, src, detail }) => (
     <div key={id} className="relative rounded-lg overflow-hidden group">
 
